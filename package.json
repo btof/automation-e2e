@@ -1,0 +1,25 @@
+{
+  "name": "abt-e2e-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-ts --config=jasmine.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "allure-jasmine": "^2.0.0-beta.9",
+    "jasmine": "^3.7.0",
+    "jasmine-spec-reporter": "^7.0.0",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.7.4",
+    "@types/selenium-webdriver": "^4.0.12",
+    "jasmine-ts": "^0.3.3",
+    "node-ts": "^5.1.1",
+    "typescript": "^4.2.4"
+  }
+}

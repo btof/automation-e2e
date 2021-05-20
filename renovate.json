@@ -1,0 +1,11 @@
+{
+    "extends": [
+      "config:base"
+    ],
+    "prHourlyLimit": 0,
+    "automerge": true,
+    "major": {
+      "automerge": false
+    },
+    "requiredStatusChecks": null
+  }
