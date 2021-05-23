@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@types/jasmine": "3.7.4",
+    "@types/node": "^15.6.0",
     "@types/selenium-webdriver": "4.0.12",
     "jasmine-ts": "0.3.3",
     "ts-node": "9.1.1",
