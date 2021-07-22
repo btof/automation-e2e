@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@types/jasmine": "3.8.1",
-    "@types/mongodb": "^3.6.20",
+    "@types/mongodb": "3.6.20",
     "@types/node": "15.6.0",
     "@types/selenium-webdriver": "4.0.15",
     "jasmine-ts": "0.4.0",
