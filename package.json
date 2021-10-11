@@ -27,7 +27,7 @@
     "jasmine-ts": "0.4.0",
     "prettier": "2.4.1",
     "ts-lint": "4.5.1",
-    "ts-node": "10.2.1",
+    "ts-node": "10.3.0",
     "typescript": "4.4.3"
   }
 }
