@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/jasmine": "3.10.6",
     "@types/mongodb": "3.6.20",
-    "@types/node": "15.6.0",
+    "@types/node": "16.18.0",
     "@types/selenium-webdriver": "4.1.6",
     "jasmine-ts": "0.4.0",
     "prettier": "2.7.1",
