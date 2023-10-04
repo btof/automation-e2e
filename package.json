@@ -20,7 +20,7 @@
     "selenium-webdriver": "^4.0.0-beta.3"
   },
   "devDependencies": {
-    "@types/jasmine": "3.10.13",
+    "@types/jasmine": "3.10.14",
     "@types/mongodb": "3.6.20",
     "@types/node": "15.14.9",
     "@types/selenium-webdriver": "4.1.17",
